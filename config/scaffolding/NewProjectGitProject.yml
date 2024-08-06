@@ -8,7 +8,7 @@ packages:
   gitUsername: santhu736852
   gitBranch: main
 services:
-- serviceName: project.newprojectgit.integrations:test1
+- serviceName: project.newprojectgit.integrations:New
   packages:
   - name: NewProjectGitProject
     version: "1.0"
