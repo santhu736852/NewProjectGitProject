@@ -8,7 +8,11 @@ packages:
   gitUsername: santhu736852
   gitBranch: main
 services:
-- serviceName: project.newprojectgit.integrations:emptyflow
+- serviceName: project.newprojectgit.integrations:Test2
   packages:
   - name: NewProjectGitProject
     version: "1.0"
+- serviceName: pub.math:addInts
+  packages:
+  - name: WmPublic
+    version: 11.1.0.0.1120
